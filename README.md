@@ -1,4 +1,4 @@
-_SF command shortcuts_ is a tiny AutoHotkey script to write Symfony commands efficiently. If you are familiar with tools like Emmet, you know what to expect.
+_SF commands shortcuts_ is a tiny AutoHotkey script to write Symfony commands efficiently. If you are familiar with tools like Emmet, you know what to expect.
 
 Installing
 ==========
